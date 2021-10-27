@@ -1,4 +1,4 @@
-all: fig.pdf
+fig: fig.pdf
 sumas.x: sumas.cpp
 
 %.x: %.cpp
